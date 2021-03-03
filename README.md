@@ -1,5 +1,11 @@
 # Java Compêndio
 
+## Ambientes de desenvolvimento
+[Eclipse](https://www.eclipse.org)
+[IntelliJ IDEA](https://www.jetbrains.com/idea/)
+[NetBeans](https://netbeans.org)
+[Visual Studio Code (Java in)](https://code.visualstudio.com/docs/languages/java)
+
 ## Cursos
 [Cousera: orientação a objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java)
 
