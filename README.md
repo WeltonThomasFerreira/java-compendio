@@ -13,19 +13,24 @@
 
 [Loiane training estrutura de dados com Java](https://loiane.training/curso/estrutura-de-dados)
 
-## Tutoriais
-[IBM Developer: fundamentos da linguagem Java e POO](https://developer.ibm.com/br/tutorials/j-introtojava1/)
-
 ## Documentação
 [Documentação da plataforma Java Standard Edition 8](https://docs.oracle.com/javase/8/docs/)
 
 ## Grupos e repositórios
 [Glossário Java](https://github.com/soujava/GlossarioJava)
 
-[SouJava: grupo brasileiro de usuários de Java](https://github.com/soujava)
+## Oracle
+[Centro de ajuda oracle](https://docs.oracle.com/en/)
+
+[Centro de recursos do oracle developer](https://developer.oracle.com/br/)
 
 ## Sites
 [Go Java: como iniciar no desenvolvimento Java](https://go.java/developer-opportunities/)
+
+## Tutoriais
+[IBM Developer: fundamentos da linguagem Java e POO](https://developer.ibm.com/br/tutorials/j-introtojava1/)
+
+[SouJava: grupo brasileiro de usuários de Java](https://github.com/soujava)
 
 
 
