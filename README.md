@@ -19,6 +19,8 @@
 ## Grupos e repositórios
 [Glossário Java](https://github.com/soujava/GlossarioJava)
 
+[SouJava: grupo brasileiro de usuários de Java](https://github.com/soujava)
+
 ## Oracle
 [Centro de ajuda oracle](https://docs.oracle.com/en/)
 
@@ -29,9 +31,6 @@
 
 ## Tutoriais
 [IBM Developer: fundamentos da linguagem Java e POO](https://developer.ibm.com/br/tutorials/j-introtojava1/)
-
-[SouJava: grupo brasileiro de usuários de Java](https://github.com/soujava)
-
 
 
 
