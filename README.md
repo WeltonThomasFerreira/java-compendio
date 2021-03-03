@@ -1,4 +1,5 @@
 # Java Compêndio
+Guia de estudos da linguagem Java e POO.
 
 ## Ambientes de desenvolvimento
 [Eclipse](https://www.eclipse.org)
