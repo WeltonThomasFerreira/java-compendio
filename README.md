@@ -1,6 +1,9 @@
 # Java Compêndio
 Guia de estudos da linguagem Java e POO.
 
+## Anotações
+[Goal Kicker: Java Notes for Professionals book](https://goalkicker.com/JavaBook/)
+
 ## Ambientes de desenvolvimento
 [Eclipse](https://www.eclipse.org)
 
