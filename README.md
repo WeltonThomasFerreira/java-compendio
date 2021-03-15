@@ -1,9 +1,6 @@
 # Java Compêndio
 Guia de estudos da linguagem Java e POO.
 
-## Anotações
-[Goal Kicker: Java Notes for Professionals book](https://goalkicker.com/JavaBook/)
-
 ## Ambientes de desenvolvimento
 [Eclipse](https://www.eclipse.org)
 
@@ -12,6 +9,9 @@ Guia de estudos da linguagem Java e POO.
 [NetBeans](https://netbeans.org)
 
 [Visual Studio Code (Java in)](https://code.visualstudio.com/docs/languages/java)
+
+## Anotações
+[Goal Kicker: Java Notes for Professionals book](https://goalkicker.com/JavaBook/)
 
 ## Cursos
 [Cousera: orientação a objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java)
